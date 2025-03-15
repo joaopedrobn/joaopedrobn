@@ -178,6 +178,15 @@ Ainda estou evoluindo na minha jornada e acredito que estou no caminho certo par
 
 <img 
     align="left" 
+    alt="C++" 
+    title="C++"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="MySQL" 
     title="MySQL"
     width="40px" 
