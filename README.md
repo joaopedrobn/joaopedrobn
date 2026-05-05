@@ -1,8 +1,5 @@
-<a href="https://git.io/typing-svg">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=250&color=F75311&width=435&lines=Bem+vindo!+%3A);Me+chamo+Jo%C3%A3o+Pedro.;Desenvolvedor+Full+Stack.;Analista+e+Desenvolvedor+de+Sistemas." 
-    alt="Typing SVG" 
-  />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2000&pause=250&color=F75311&width=435&lines=Bem+vindo!+%3A);Me+chamo+Jo%C3%A3o+Pedro.;Analista+e+Desenvolvedor+de+Sistemas." alt="Typing SVG"
+/>
 </a>
 
 Sou João Pedro Nascimento, tenho 22 anos e sou formado em **Análise e Desenvolvimento de Sistemas** pela **Universidade de Uberaba (Uniube)**.
