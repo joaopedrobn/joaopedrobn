@@ -1,9 +1,3 @@
-# 👨🏻‍💻 João Pedro Nascimento
-
-<!-- **`Desenvolvedor Full Stack`** -->
-
-</br>
-
 <a href="https://git.io/typing-svg">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=250&color=F75311&width=435&lines=Bem+vindo!+%3A);Me+chamo+Jo%C3%A3o+Pedro.;Desenvolvedor+Full+Stack.;Analista+e+Desenvolvedor+de+Sistemas." 
