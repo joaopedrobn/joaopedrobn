@@ -8,7 +8,7 @@ Sou apaixonado por tecnologia, programação e por criar soluções que resolvem
 
 Atualmente, atuo com desenvolvimento e manutenção de sistemas, trabalhando com tecnologias voltadas para frontend, backend, banco de dados, integrações, automações e ambientes em nuvem.
 
-Tenho prática com **HTML, CSS, JavaScript, TypeScript, Angular, React, Node.js, Python e MySQL**, além de conhecimento em ambientes cloud como **AWS** e **Google Cloud**. Também venho aplicando ferramentas de inteligência artificial no fluxo de desenvolvimento, como **Lovable, Claude e ChatGPT**, utilizando engenharia de prompts para acelerar análises, prototipações, geração de código e documentação técnica.
+Tenho prática com **HTML, CSS, JavaScript, TypeScript, Angular, React, Node.js e MySQL**, além de conhecimento em ambientes cloud como **AWS** e **Google Cloud**. Também venho aplicando ferramentas de inteligência artificial no fluxo de desenvolvimento, como **Lovable, Claude e ChatGPT**, utilizando engenharia de prompts para acelerar análises, prototipações, geração de código e documentação técnica.
 
 💡 Gosto de criar soluções eficientes, organizar processos e transformar ideias em sistemas funcionais. Meu foco está no desenvolvimento Full Stack, com visão tanto da parte técnica quanto da regra de negócio.
 
