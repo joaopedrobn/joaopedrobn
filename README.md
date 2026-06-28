@@ -2,7 +2,7 @@
 />
 </a>
 
-Sou João Pedro Nascimento, tenho 22 anos e sou formado em **Análise e Desenvolvimento de Sistemas** pela **Universidade de Uberaba (Uniube)**.
+Tenho 23 anos e sou formado em **Análise e Desenvolvimento de Sistemas** pela **Universidade de Uberaba (Uniube)**.
 
 Sou apaixonado por tecnologia, programação e por criar soluções que resolvem problemas reais. Meu primeiro contato com computador foi ainda criança, aos 5 anos, e desde então minha curiosidade pela área só cresceu.
 
